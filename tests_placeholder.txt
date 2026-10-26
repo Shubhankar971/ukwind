@@ -1,0 +1,1 @@
+Add pytest/httpx integration tests with saved Elexon response fixtures before production use.
